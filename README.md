@@ -4,6 +4,8 @@ Questo software è stato progettato per aiutare gli studenti di **Telecomunicazi
 
 ---
 
+> ### [Scarica l'Eseguibile per Windows (.exe)](https://github.com/MarcoNasi/Telecomunicazioni_SimulazioneSinusoide/releases/download/Release/Sinusoide.exe)
+
 # Concetto Teorico
 
 In telecomunicazioni, un segnale sinusoidale può essere visto come la proiezione nel tempo di un **punto che si muove di Moto Circolare Uniforme (MCU)** lungo una circonferenza di raggio $A$ (Ampiezza).
