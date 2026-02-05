@@ -224,7 +224,7 @@ class PannelloControllo:
 
         info = ttk.Label(main, text="Sviluppato da HighMark [Marco N.]\nClicca per GitHub", justify="center", cursor="hand2", foreground="blue")
         info.pack(side="bottom", pady=10)
-        info.bind("<Button-1>", lambda e: webbrowser.open("https://github.com/MarcoNasi"))
+        info.bind("<Button-1>", lambda e: webbrowser.open("https://github.com/MarcoNasi/Telecomunicazioni_SimulazioneSinusoide"))
 
     def _cambia_colore(self, tipo):
         var = {"cerchio": self.var_cerchio, "traccia": self.var_traccia, "sfondo": self.var_sfondo}[tipo]
